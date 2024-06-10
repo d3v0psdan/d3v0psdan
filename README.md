@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  ![alt text](https://github.com/d3v0psdan/d3v0psdan/blob/main/d3v0psdan.png)
+![alt text](https://github.com/d3v0psdan/d3v0psdan/blob/main/d3v0psdan_.png?raw=true)
 
+<div id="header" align="center">
   <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
