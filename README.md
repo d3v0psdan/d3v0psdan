@@ -1,22 +1,23 @@
-![alt text](https://github.com/d3v0psdan/d3v0psdan/blob/main/d3v0psdan_.png?raw=true)
+<p align="center">
+  <img src="https://github.com/d3v0psdan/d3v0psdan/blob/main/d3v0psdan_.png?raw=true" alt="d3v0psdan"/>
+</p>
 
 <div id="header" align="center">
-  <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
+<p align="center">
+  <b style="font-family: Verdana, Geneva, sans-serif;">💻 Passionate C++ Developer & Reverse Engineering Enthusiast 🔎</b> <br>
+  <i style="font-family: Verdana, Geneva, sans-serif;">Always exploring, tinkering, and mastering the art of code</i> <br>
+  Canadian 🍁 
+  <br>
+  Constantly <b style="font-family: Verdana, Geneva, sans-serif;">learning</b>, 
+  <b style="font-family: Verdana, Geneva, sans-serif;">evolving</b>, and 
+  <b style="font-family: Verdana, Geneva, sans-serif;">pushing boundaries</b> 💡 
+  <br>
+  Welcome to my world of <b style="font-family: Verdana, Geneva, sans-serif;">innovation</b> and 
+  <b style="font-family: Verdana, Geneva, sans-serif;">curiosity</b>! 🌟
+</p>
+
 </div>
 
-### :hammer_and_wrench: Languages:
-
----
-
-### :writing_hand: Blog Posts :
 
 </div>
