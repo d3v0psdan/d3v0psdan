@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  ![alt text](http://github.com/d3v0psdan/d3v0psdan/banner.png)
+  ![alt text](https://github.com/d3v0psdan/d3v0psdan/blob/main/d3v0psdan.png)
 
   <div id="badges">
   <a href="your-linkedin-URL">
