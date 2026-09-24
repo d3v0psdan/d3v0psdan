@@ -6,28 +6,14 @@
   
 ## Hi, I'm Daniel 👋
 
-**Full-Stack Developer** building practical solutions with Laravel
+I'm a product engineer focused on building practical solutions that benefit society. 
 
-Currently building [**DriveSpec**](https://drivespec.app) - a SaaS platform that provides automotive shops with instant access to critical wheel torque specifications.
-
-🎓 Software Development student at NAIT  
-💻 Working with Laravel, Livewire, AlpineJS, and Tailwind CSS
+🎓 Software Development student at [NAIT](https://nait.ca)  
+💻 Primarily working with [Laravel](https://laravel.com/) and [React](https://react.dev). 
 
 </div>
 
 ---
-
-### 🚀 Current Focus
-
-- Building and scaling DriveSpec (Laravel SaaS)
-- Learning modern full-stack development practices
-- Exploring multi-tenant architectures and role-based systems
-
-### 🛠️ Tech Stack
-
-**Backend:** Laravel, PHP, MySQL  
-**Frontend:** Livewire, AlpineJS, Tailwind CSS, JavaScript  
-**Tools:** Git, Laravel Cloud, FluxUI, Spatie Packages
 
 ### 📫 Connect
 
